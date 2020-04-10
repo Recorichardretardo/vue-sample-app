@@ -21,4 +21,8 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/).\
+start [vue-cli](https://www.vuemastery.com/courses/real-world-vue-js/vue-cli/).\
+Sample [Json Data](https://jsonplaceholder.typicode.com/).\
+See [Bootstrap](https://getbootstrap.com/).
+
